@@ -51,7 +51,8 @@ The complete project documentation is available here:
 
 The objective of this project is to provide a functional, desktop-based POS solution that practically demonstrates Core Object-Oriented Programming (OOP) concepts, graphical user interface design, and state management in desktop applications.
 
-👩‍💻 Author
+## 👩‍💻 Author
+
 Fizzah Ahmed
 
 Computer Science Student | 4th Semester
