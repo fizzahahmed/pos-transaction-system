@@ -47,7 +47,8 @@ The complete project documentation is available here:
 
 📥 [POS Transaction System Report](documentation/POS-Transaction-System-Report.pdf)
 
-🎯 Project Objective
+## 🎯 Project Objective
+
 The objective of this project is to provide a functional, desktop-based POS solution that practically demonstrates Core Object-Oriented Programming (OOP) concepts, graphical user interface design, and state management in desktop applications.
 
 👩‍💻 Author
