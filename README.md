@@ -44,19 +44,14 @@ A desktop-based Point of Sale (POS) Transaction System developed using C# Window
 ## 📂 Project Structure
 
 ```text
-POS-Transaction-System-WinForms
-├── .gitignore
-├── WinFormsApp5.sln
-├── OOP PROJECT REPORT.pdf
-├── screenshots/
-│   ├── Home Dashboard.png
-│   ├── Billing & Menu Order Screen.png
-│   ├── Invoice View.png
-│   └── Product Management.png
-└── WinFormsApp5/
-    ├── Form1.cs
-    ├── Program.cs
-    └── WinFormsApp5.csproj
+POS-Transaction-System
+├── WinFormsApp5
+├── Properties
+├── screenshots
+├── README.md
+└── WinFormsApp5.csproj
+```
+
 🎯 Project Objective
 The objective of this project is to provide a functional, desktop-based POS solution that practically demonstrates Core Object-Oriented Programming (OOP) concepts, graphical user interface design, and state management in desktop applications.
 
