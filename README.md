@@ -41,6 +41,12 @@ A desktop-based Point of Sale (POS) Transaction System developed using C# Window
 4. Build the solution (`Ctrl + Shift + B`).
 5. Press `F5` to run the application.
 
+## 📄 Project Documentation
+
+The complete project documentation is available here:
+
+📥 [POS Transaction System Report](documentation/POS-Transaction-System-Report.pdf)
+
 ## 📂 Project Structure
 
 ```text
