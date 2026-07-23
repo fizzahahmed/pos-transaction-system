@@ -47,17 +47,6 @@ The complete project documentation is available here:
 
 📥 [POS Transaction System Report](documentation/POS-Transaction-System-Report.pdf)
 
-## 📂 Project Structure
-
-```text
-POS-Transaction-System
-├── WinFormsApp5
-├── Properties
-├── screenshots
-├── README.md
-└── WinFormsApp5.csproj
-```
-
 🎯 Project Objective
 The objective of this project is to provide a functional, desktop-based POS solution that practically demonstrates Core Object-Oriented Programming (OOP) concepts, graphical user interface design, and state management in desktop applications.
 
